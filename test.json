@@ -1,0 +1,10 @@
+[{
+    "nome":"joao",
+    "idade": 22,
+    "trabahando": true,
+    "detalhes_da_profissao":{
+        "profissao": "progamador",
+        "empresa": "intgest"
+    },
+    "hobbies": ["progamar","correr"]
+}]
